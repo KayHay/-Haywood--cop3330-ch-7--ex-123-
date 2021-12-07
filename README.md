@@ -1,3 +1,4 @@
+
 # -Haywood--cop3330-ch-7--ex-123-
 Application Assignment in C++ (EXTRA CREDIT) - Chapter 7, Exercises 1, 2, 3
 
@@ -87,4 +88,4 @@ console.log(x);
 
 // For Chapter 7, The Drill problems build off "calculator08buggy.cpp" file and the "std_lib_facilities.h" header file, which was provided
 // via Webcourses from Professor Cacoulidis 
-// These files are found on Programming: Principles and Practice Using C++, 2nd Edition[Archive.zip](https://github.com/KayHay/-Haywood--cop3330-ch-7--ex-123-/files/7665405/Archive.zip)
+// These files are found on Programming: Principles and Practice Using C++, 2nd Edition
