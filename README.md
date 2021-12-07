@@ -9,17 +9,17 @@ Application Assignment in C++ (EXTRA CREDIT) - Chapter 7, Exercises 1, 2, 3
  */
  
  // Exercise 1 //
- // Allowing underscores in the calculator's variable names //
+ // Allowing Underscores In The Calculator's Variable Names //
  
  class GFG {
   
     public static void main(String args[])
     {
     
-    // Declaring underscore as variable
+    // Declaring Underscore As Variable
         int _ = 10;
         
-   //Printing stored value
+   //Printing Stored Value
         System.out.println(_);
     }
 }
@@ -27,7 +27,7 @@ Application Assignment in C++ (EXTRA CREDIT) - Chapter 7, Exercises 1, 2, 3
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Exercise 2 //
-// Providing an Assignment Operator = //
+// Providing An Assignment Operator = //
  
  class Main {
   public static void main(String[] args) {
